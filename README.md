@@ -2,9 +2,7 @@
 free-view rendering static renderppl dataset, lighting applied.
 
 # Renderppl Static Dataset
-* input dataset
-
-You can download the free RenderPeople model [here](https://renderpeople.com/sample/free/rp_dennis_posed_004_OBJ.zip), and test the rendering code with this model.
+You can download the [RenderPeople](https://renderpeople.com/free-3d-people/) one free model [here](https://renderpeople.com/sample/free/rp_dennis_posed_004_OBJ.zip), and test the rendering code with this model.
 
 * input dataset folder structure
 

@@ -99,7 +99,7 @@ $ ./bin/blender-2.93.4-linux-x64/blender ./bin/for_free_view.blend --background 
   <img src="https://github.com/Junyingw/renderppl-dataset/blob/master/examples/julia_image.png" width="384" height="256">
 </p>
 
-* normal maps (exr: 3 channels; object view)
+* normal maps (exr: 3 channels; object view; blender coords)
 <p float="left">
   <img src="https://github.com/Junyingw/renderppl-dataset/blob/master/examples/aaron_normal.png" width="384" height="256">
   <img src="https://github.com/Junyingw/renderppl-dataset/blob/master/examples/julia_normal.png" width="384" height="256">
